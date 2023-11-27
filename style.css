@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: orange;
+}
+
+.container {
+  margin-top: 10px;
+  border: 2px solid orange;
+  background-color: antiquewhite;
+}
+
+.btn-width {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.edit {
+  margin-top: 4px;
+  margin-left: 4px;
+}
+
+.del {
+  margin-left: 4px;
+  margin-top: 4px;
+}
